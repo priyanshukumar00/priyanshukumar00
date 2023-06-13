@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Natural language generator<br>🌱 I’m currently pursuing BSc in Data Science<br>📫 My email: priyanshukumar33033@gmail.com<br><br><br>
+🔭 I’m currently working on a Natural language generator<br>🌱 I’m pursuing BSc in Data Science<br>📫 My email: priyanshukumar33033@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
