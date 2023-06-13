@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Natural language generator<br>🌱 I’m pursuing BSc in Data Science<br>🔭 I'm exploring the universe behind the MERN Stack development<br>📫 My email: priyanshukumar33033@gmail.com<br><br><br>
+🔭 I’m currently working on a Natural language generator<br>🌱 Pursuing BSc in Data Science<br>🔭 Exploring the universe behind the MERN Stack development<br>📫 My email: priyanshukumar33033@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
