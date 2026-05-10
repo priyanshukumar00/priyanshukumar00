@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 AI/ML Engineer passionate about building intelligent AI agents and scalable AI-driven applications.
-Experienced in working with Large Language Models (LLMs), Generative AI, Machine Learning, Retrieval-Augmented Generation (RAG), and automation workflows to solve real-world problems.
-Constantly exploring advancements in AI, deep learning, and agentic frameworks to create innovative solutions that bridge technology and human interaction.<br>🌱Bachelor's in Data Science<br>📫 Connect me: priyanshukumar.ds@gmail.com<br><br><br>
+<br>Experienced in working with Large Language Models (LLMs), Generative AI, Machine Learning, Retrieval-Augmented Generation (RAG), and automation workflows to solve real-world problems.
+Constantly exploring advancements in AI, deep learning, and agentic frameworks to create innovative solutions that bridge technology and human interaction.<br><br>🌱Bachelor's in Data Science<br>📫 Connect me: priyanshukumar.ds@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
