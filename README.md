@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on a Natural language generator<br>🌱 Pursuing BSc in Data Science<br>🔭 Exploring the universe behind the MERN Stack development<br>📫 My email: priyanshukumar33033@gmail.com<br><br><br>
+🚀 AI/ML Engineer passionate about building intelligent AI agents and scalable AI-driven applications.
+Experienced in working with Large Language Models (LLMs), Generative AI, Machine Learning, Retrieval-Augmented Generation (RAG), and automation workflows to solve real-world problems.
+
+I enjoy transforming complex ideas into smart, efficient, and impactful AI systems using modern technologies and multi-agent architectures. Constantly exploring advancements in AI, deep learning, and agentic frameworks to create innovative solutions that bridge technology and human interaction.<br>🌱BSc in Data Science<br>🔭 Exploring the universe behind the MERN Stack development<br>📫 My email: priyanshukumar.ds@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
